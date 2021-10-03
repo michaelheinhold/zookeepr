@@ -125,6 +125,17 @@
         "hungry"
       ],
       "id": "12"
+    },
+    {
+      "name": "Faddy",
+      "species": "Elephant",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "hungry",
+        "anxious",
+        "loving"
+      ],
+      "id": "13"
     }
   ]
 }
